@@ -40,18 +40,20 @@
     "url": "https://pucetec.puce.edu.ec/2023-02/login/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/pucetec.puce.edu.ec.ico",
     "slug": "puce",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1053,
-    "timeDay": 1105,
-    "timeWeek": 1053,
-    "timeMonth": 1053,
-    "timeYear": 1053,
-    "dailyMinutesDown": {}
+    "time": 841,
+    "timeDay": 655,
+    "timeWeek": 841,
+    "timeMonth": 841,
+    "timeYear": 841,
+    "dailyMinutesDown": {
+      "2024-07-05": 0
+    }
   },
   {
     "name": "Hacker News",
