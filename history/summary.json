@@ -40,7 +40,7 @@
     "url": "https://pucetec.puce.edu.ec/2023-02/login/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/pucetec.puce.edu.ec.ico",
     "slug": "puce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 875,
     "timeYear": 875,
     "dailyMinutesDown": {
+      "2024-07-28": 0,
       "2024-07-11": 48,
       "2024-07-05": 32
     }
