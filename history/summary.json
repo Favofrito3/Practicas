@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pucetec.puce.edu.ec.ico",
     "slug": "puce",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.68%",
     "uptimeMonth": "98.32%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.93%",
     "time": 864,
     "timeDay": 735,
     "timeWeek": 1382,
@@ -64,7 +64,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -75,7 +75,9 @@
     "timeWeek": 306,
     "timeMonth": 342,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-09": 0
+    }
   },
   {
     "name": "Test Broken Site",
